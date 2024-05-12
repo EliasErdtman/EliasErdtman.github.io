@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Elias Erdtman
-description: "Hi I'm Johnny, and I'm an PhD Licentiate aspiring to be a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Want to know more about me? Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Elias, and I'm an PhD Licentiate aspiring to be a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Want to know more about me? Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -17,12 +17,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Linköping, Sweden"
-resume_url: /docs/'Elias Erdtman CV - 2024-04-22'.pdf
-avatar_image: /img/ProfilImage_Elias_Lic_2.JPG
+resume_url: /docs/Elias_Erdtman_CV_2024-04-22.pdf
+avatar_image: /img/ProfilImage_Elias_Lic_2.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/in/elias-erdtman/" # Add your linkedln handle
+linkedln: "https://www.linkedin.com/in/elias-erdtman/" # Add your linkedln handle
 github: "https://github.com/eliaserdtman"  # Add your github handle
 
 paginate: 6
